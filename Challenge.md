@@ -2,7 +2,7 @@
 
 Characterizing the chemistry of exoplanets is of the great active projects in astronomy. The European Space Agency's Atmospheric Remote-sensing Infrared Exoplanet Large-survey (ARIEL) mission will gather data on roughly 1,000 exoplanets by observing them while they transit in front of their host stars. Even with the powerful instruments on board ARIEL, the resulting data will be based on a **limited number of photons and include a fair amount of noise**.
 
-Your challenge in this competition is to **extract the chemical spectrum of the atmospheres of exoplanets using simulated ARIEL data**.
+Your challenge in this competition is to **extract the chemical spectrum** of the atmospheres of exoplanets using simulated ARIEL data.
 
 This competition uses a hidden test set. When your submitted notebook is scored, the actual test data (including a full length sample submission) will be made available to your notebook. **Expect to see roughly 800 exoplanets in the hidden test set.**
 
